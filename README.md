@@ -1,7 +1,7 @@
 # ESP_Firebase
 Send data from a firebase to an STM32F7
 This project used an Esp8266 microcontller, as well a STM32F7 and a firebase.
-The code presented here was made in the Arduino IDE and is inteded to transmit blocks of data from the firebase to the Esp and in the end to the STM.
+The code presented here was made in the Arduino IDE and is inteded to data from the firebase to the Esp and in the end to the STM.
 For the Firebase (Google's approach to data bases) is extremelly eazy to configure and there is only required for a very basic first setup to define the rules of access, something like this:
 {
   "rules": {
