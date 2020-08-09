@@ -25,8 +25,8 @@ fire-esp-91105 (This first field is the name of the data base, and each tab is c
 
 Configuration needed for the ESP are mainly on the wifi connection, it will require the credentials and the name of the wifi to be connected. For testing porpurses and easier first deployments, I recommend the use of a hotspot with no password, looking like this:
 
-#define WIFI_SSID "Valencia2Y100pro"  /*Name of the device to be connected to*/
-#define WIFI_PASSWORD NULL            /*Password for connection*/
+#define WIFI_SSID "Valencia2Y100pro"  // Name of the device to be connected to
+#define WIFI_PASSWORD NULL            // Password for connection
 
 Dependencies:
  - ESP8266WiFi library:
