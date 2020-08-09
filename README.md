@@ -13,7 +13,7 @@ There can be added extra layers of security depending on the necessities.
 Then configure the data it self, example:
 
 fire-esp-91105 (This first field is the name of the data base, and each tab is connected to the data above and only the above data)
-  1
+\r  1
     FingerID: 1
     Songs: "1,2,3,4"
     UserName: "Jose Gomes"
